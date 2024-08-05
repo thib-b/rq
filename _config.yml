@@ -119,7 +119,7 @@ footer_links:
     icon: fab fa-spotify
   - title: Apple Music
     url: https://music.apple.com/gb/artist/robocobra-quartet/1014676217
-    icon: fab fa-apple-music
+    icon: fab fa-apple
   - title: Youtube
     url: https://www.youtube.com/channel/UCjct8YHW_ejTkvr3pYrMBYg
     icon: fab fa-youtube
