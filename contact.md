@@ -6,13 +6,13 @@ entries_layout: list
 ---
 # Contact
 
-Band:  
+## Band:  
 [robocobraquartet@gmail.com](mailto:robocobraquartet@gmail.com)
 
-Booking:  
+## Booking:  
 [will@primarytalent.com](mailto:will@primarytalent.com)
 
-Management:  
+## Management:  
 [joeyedwardsfoh@gmail.com](mailto:joeyedwardsfoh@gmail.com)
 
 <div id="mc_embed_shell" >
