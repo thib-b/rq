@@ -16,7 +16,7 @@ Management:
 [joeyedwardsfoh@gmail.com](mailto:joeyedwardsfoh@gmail.com)
 
 
-<div id="mc_embed_shell">
+<div id="mc_embed_shell" class="embed-responsive-16by9">
       <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
   <style type="text/css">
         #mc_embed_signup{width: 600px;}
