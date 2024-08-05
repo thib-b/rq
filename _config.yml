@@ -110,7 +110,7 @@ footer_links:
     icon: fab fa-twitter-square
   - title: Facebook
     url: http://www.facebook.com/robocobraquartet
-    icon: fab fa-facebook
+    icon: fab fa-facebook-f
   - title: Bandcamp
     url: https://robocobraquartet.bandcamp.com/
     icon: fab fa-bandcamp
