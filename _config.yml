@@ -107,10 +107,10 @@ footer_links:
     icon: fas fa-rss-square
   - title: Instagram
     url: https://instagram.com/robocobraquartet
-    icon: fa-brands fa-instagram
+    icon: fab fa-instagram
   - title: Twitter
     url: http://twitter.com/robocobraquartz 
-    icon: fa-brands fa-twitter
+    icon: fab fa-twitter-square
   - title: Facebook
     url: http://www.facebook.com/robocobraquartet
-    icon: fa-brands fa-facebook
+    icon: fab fa-facebook
