@@ -23,7 +23,7 @@ Management:
 </style>
 <div id="mc_embed_signup" class="embed-responsive-16by9">
     <form action="https://bandcamp.us2.list-manage.com/subscribe/post?u=1c7ba3baf4edb8e5f8f070e0e&amp;id=fd06c37a76&amp;f_id=007850e0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
-        <div id="mc_embed_signup_scroll"><h2>Subscribe to our mailing list:</h2>
+        <div id="mc_embed_signup_scroll"><h3>Subscribe to our mailing list:</h3>
             <div class="mc-field-group"><input type="email" placeholder="Email Address*" name="EMAIL" class="required email" id="mce-EMAIL" required="" value=""></div>
         <div id="mce-responses" class="clear foot">
             <div class="response" id="mce-error-response" style="display: none;"></div>
