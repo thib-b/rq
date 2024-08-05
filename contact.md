@@ -19,11 +19,10 @@ Management:
 <div id="mc_embed_shell" class="embed-responsive-16by9">
       <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
   <style type="text/css">
-        #mc_embed_signup{width: 600px;}
         /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
            We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
-<div id="mc_embed_signup">
+<div id="mc_embed_signup class="embed-responsive-16by9">
     <form action="https://bandcamp.us2.list-manage.com/subscribe/post?u=1c7ba3baf4edb8e5f8f070e0e&amp;id=fd06c37a76&amp;f_id=007850e0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
         <div id="mc_embed_signup_scroll"><h2>Subscribe to our mailing list:</h2>
             <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
