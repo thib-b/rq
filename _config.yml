@@ -19,8 +19,8 @@ skin: "/assets/css/skins/rq.css"
 locale: en-US
 title: "Robocobra Quartet"
 description: "Official Website"
-baseurl: "" # the subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl: "/rq" # the subpath of your site, e.g. "/blog"
+url: "https://thib-b.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: "/assets/images/rqlogo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
