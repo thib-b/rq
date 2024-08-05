@@ -4,7 +4,6 @@ limit: 10
 show_excerpts: true
 entries_layout: list
 ---
-
 ![Robocobra Quartet Press Shot Attica]({{ site.url }}{{ site.baseurl }}/assets/images/bandphoto-attica-display.jpg)
 Press Shot ([Click here for hi-res download]({{ site.url }}{{ site.baseurl }}/assets/images/bandphoto-attica.jpg))  
 Photo credit: Colin Armstrong

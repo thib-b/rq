@@ -4,7 +4,6 @@ limit: 10
 show_excerpts: true
 entries_layout: list
 ---
-
 # Living Isn't Easy
 ## [Listen & buy on LP/CD](https://ffm.to/rq_livingisnteasy)
 

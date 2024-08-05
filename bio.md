@@ -4,8 +4,6 @@ limit: 10
 show_excerpts: true
 entries_layout: list
 ---
-# Bio
-
 **"Free-floating musical explorers"<br>- Hannah Peel, BBC Radio 3**  
 **"A signature sound of jazz-motivated, punk-informed spoken word"  <br>- Loud & Quiet**  
 **"A band who can both write a killer hook and slap you hard in your chest cavity."  - Line Of Best Fit**  

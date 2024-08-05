@@ -4,7 +4,6 @@ limit: 10
 show_excerpts: true
 entries_layout: list
 ---
-
 <div class="embed-responsive embed-responsive-16by9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FwuOOBuVKk4?si=T9w3I5tPVq6eq4El" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
