@@ -16,7 +16,7 @@ Management:
 [joeyedwardsfoh@gmail.com](mailto:joeyedwardsfoh@gmail.com)
 
 
-<div id="mc_embed_shell" class="embed-responsive-16by9">
+<div id="mc_embed_shell" >
       <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
   <style type="text/css">
         /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
