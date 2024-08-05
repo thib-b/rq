@@ -14,9 +14,9 @@ These juxtapositions are just the beginning of the complex world of Robocobra Qu
 The free nature of the band's live shows led to them being embraced early on by jazz fanatics just as much as rock fans - once finding themselves in Europe touring a jazz club one night, a house show the next and a pop festival the night after that. These unmatched live performances often channel-hop from moments of joy and playfulness to periods of intense fury, earning the band invitations to Montreux Jazz Festival, Glastonbury and as far as Inversia Festival in the arctic circle whilst receiving acclaim from the likes of The Quietus, MOJO, BBC 6Music and KEXP.
 
 At the time of writing Robocobra Quartet swaps between:  
-Chris W Ryan (Drums, Voice) 
-Nathan Rodgers (Bass) 
-Ryan Burrowes (Bass, Sampler, Keys) 
-Tom Tabori (Soprano Sax, Sampler, Keys) 
-Peter Howard (Tenor Sax, Alto Sax) 
-Thibault Barillon (Tenor Sax) 
+Chris W Ryan (Drums, Voice)  
+Nathan Rodgers (Bass)  
+Ryan Burrowes (Bass, Sampler, Keys)  
+Tom Tabori (Soprano Sax, Sampler, Keys)  
+Peter Howard (Tenor Sax, Alto Sax)  
+Thibault Barillon (Tenor Sax)  
