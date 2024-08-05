@@ -104,13 +104,13 @@ author:
 footer_links:
   - title: Instagram
     url: https://instagram.com/robocobraquartet
-    icon: fab fa-instagram
+    icon: fab fa-square-instagram
   - title: Twitter
     url: http://twitter.com/robocobraquartz 
     icon: fab fa-twitter-square
   - title: Facebook
     url: http://www.facebook.com/robocobraquartet
-    icon: fab fa-facebook-f
+    icon: fab fa-facebook
   - title: Bandcamp
     url: https://robocobraquartet.bandcamp.com/
     icon: fab fa-bandcamp
