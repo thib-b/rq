@@ -102,9 +102,6 @@ author:
 
 # Footer Links
 footer_links:
-  - title: Feed
-    url: atom.xml
-    icon: fas fa-rss-square
   - title: Instagram
     url: https://instagram.com/robocobraquartet
     icon: fab fa-instagram
@@ -114,3 +111,15 @@ footer_links:
   - title: Facebook
     url: http://www.facebook.com/robocobraquartet
     icon: fab fa-facebook
+  - title: Bandcamp
+    url: https://robocobraquartet.bandcamp.com/
+    icon: fab fa-bandcamp
+  - title: Spotify
+    url: https://open.spotify.com/artist/1TWFJFIiQbaPOLDqp3he4s
+    icon: fab fa-spotify
+  - title: Apple Music
+    url: https://music.apple.com/gb/artist/robocobra-quartet/1014676217
+    icon: fab fa-apple-music
+  -title: Youtube
+    url: https://www.youtube.com/channel/UCjct8YHW_ejTkvr3pYrMBYg
+    icon: fab fa-youtube
