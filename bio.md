@@ -5,7 +5,9 @@ show_excerpts: true
 entries_layout: list
 ---
 **"Free-floating musical explorers"<br>- Hannah Peel, BBC Radio 3**  
+
 **"A signature sound of jazz-motivated, punk-informed spoken word"<br>- Loud & Quiet**  
+
 **"A band who can both write a killer hook and slap you hard in your chest cavity."<br>- Line Of Best Fit**  
 
 Experimentation is at the core of Robocobra Quartet, whether it be in the fluid line-up (six musicians tagging in and out to make up the live touring quartet) or in their unique self-produced records made in their hometown of Belfast, Northern Ireland.
