@@ -15,4 +15,6 @@ entries_layout: list
 
 “Thank god for Robocobra Quartet”<br>★★★★<br>The Irish Times
 
+“In my childhood, that would've been called Devil's Music”<br>★★<br>BBC Talkback
+
 <iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/album=4004019889/size=large/bgcol=ffffff/linkcol=333333/minimal=true/track=858971339/transparent=true/" seamless><a href="https://robocobraquartet.bandcamp.com/album/living-isnt-easy">Living Isn&#39;t Easy by Robocobra Quartet</a></iframe>
