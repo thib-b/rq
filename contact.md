@@ -10,7 +10,7 @@ entries_layout: list
 [robocobraquartet@gmail.com](mailto:robocobraquartet@gmail.com)
 
 ## Booking:  
-[megan@primarytalent.com](mailto:megan@primarytalent.com)
+[jjavor@wmeagency.com](mailto:jjavor@wmeagency.com)
 
 ## Management:  
 [joeyedwardsfoh@gmail.com](mailto:joeyedwardsfoh@gmail.com)
