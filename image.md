@@ -12,5 +12,9 @@ Photo credit: Colin Armstrong
 Press Shot ([Click here for hi-res download]({{ site.url }}{{ site.baseurl }}/assets/images/RQ2.jpeg))  
 Photo credit: Colin Armstrong
 
+![Robocobra Quartet Press Shot 3]({{ site.url }}{{ site.baseurl }}/assets/images/RQ3.jpeg)
+Press Shot ([Click here for hi-res download]({{ site.url }}{{ site.baseurl }}/assets/images/RQ3.jpeg))  
+Photo credit: Colin Armstrong
+
 ![Logo]({{ site.url }}{{ site.baseurl }}/assets/images/rqlogo.png)
 Logo ([Click here for hi-res download]({{ site.url }}{{ site.baseurl }}/assets/images/rqlogo.png))  
